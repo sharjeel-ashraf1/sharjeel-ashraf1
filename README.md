@@ -49,6 +49,8 @@ currently_building:
 looking_for:
   - Full-time opportunities
   - Contract-based work
+ current_role:
+  - React Native Intern @ WriteO
 ```
 
 ## 🚀 Featured Projects
