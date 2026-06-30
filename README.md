@@ -55,21 +55,21 @@ looking_for:
 
 ## 🚀 Featured Projects
 
-### 🔍 ForensIQ — AI-Powered Digital Forensic Platform
-An AI-powered platform that helps investigators collect, analyze, and organize cybercrime evidence — automatically reconstructing timelines and detecting file tampering to generate court-ready reports. Direct experience applying AI to automate a real, complex investigative workflow.
-
-`AI` `Automation` `Digital Forensics`
-
-🔗 [Live Demo](https://sharjeel-ashraf1.github.io/AHCI-Project-ForensIQ/)
-
----
-
 ### 🏦 CBS — Core Banking System
 A centralized banking database system with a Node.js REST API backend and React frontend, ensuring data integrity through Oracle TCL commands embedded in stored procedures and triggers. Demonstrates full API connection and end-to-end tool integration.
 
 `Oracle 11g` `PL/SQL` `Node.js` `React` `REST API`
 
 🔗 [Source Code](https://github.com/sharjeel-ashraf1/CBS_Banking_System)
+
+---
+
+### 🔍 ForensIQ — AI-Powered Digital Forensic Platform
+An AI-powered platform that helps investigators collect, analyze, and organize cybercrime evidence — automatically reconstructing timelines and detecting file tampering to generate court-ready reports. Direct experience applying AI to automate a real, complex investigative workflow.
+
+`AI` `Automation` `Digital Forensics`
+
+🔗 [Live Demo](https://sharjeel-ashraf1.github.io/AHCI-Project-ForensIQ/)
 
 ---
 
