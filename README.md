@@ -64,15 +64,6 @@ A centralized banking database system with a Node.js REST API backend and React 
 
 ---
 
-### 🔍 ForensIQ — AI-Powered Digital Forensic Platform
-An AI-powered platform that helps investigators collect, analyze, and organize cybercrime evidence — automatically reconstructing timelines and detecting file tampering to generate court-ready reports. Direct experience applying AI to automate a real, complex investigative workflow.
-
-`AI` `Automation` `Digital Forensics`
-
-🔗 [Live Demo](https://sharjeel-ashraf1.github.io/AHCI-Project-ForensIQ/)
-
----
-
 ### 🐙 GitHub Explorer
 A tool to search any GitHub user and explore their profile stats and repositories. Built using REST API integration and dynamic data rendering, in a rapid-build, prototype-style project.
 
@@ -88,6 +79,15 @@ A multi-client networked communication system simulating data exchange across ca
 `C/C++` `TCP/UDP Sockets` `Cisco Packet Tracer`
 
 🔗 [Live Demo](https://sharjeel-ashraf1.github.io/NU-Information-Exchange-System-C-TCP-UDP-Sockets-Cisco-Packet-Tracer/)
+
+---
+
+### 🔍 ForensIQ — AI-Powered Digital Forensic Platform
+An AI-powered platform that helps investigators collect, analyze, and organize cybercrime evidence — automatically reconstructing timelines and detecting file tampering to generate court-ready reports. Direct experience applying AI to automate a real, complex investigative workflow.
+
+`AI` `Automation` `Digital Forensics`
+
+🔗 [Live Demo](https://sharjeel-ashraf1.github.io/AHCI-Project-ForensIQ/)
 
 ---
 
